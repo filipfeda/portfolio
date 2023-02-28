@@ -2,7 +2,7 @@
 
 ## Testing [empik.com](https://www.empik.com/) webshop:
 * Test cases created in <b>Testrail</b> to test sections of search engine, login and registration, slider and banners behaviours. 
-* [Click to view PDF file](https://drive.google.com/file/d/1VBrRMbYD93s1RKI1yyCItGScnrxltKzc/view?usp=sharing)
+* [Click to view PDF file](https://drive.google.com/file/d/1aywv-12lSwrqyUFcnZsC07CSDIosseI9/view?usp=sharing)
 
 ## Testing [kanban board web app](https://kanbanboard.pl/)
 * Test cases created in <b>Testlink</b> to test main modules of app as columns, and tasks.
@@ -26,4 +26,4 @@
 * [Click here to view raports.](https://drive.google.com/drive/folders/14j2qu57m0lKw5c8wCFCznnnHylbuRrcZ?usp=sharing)
 
 ## Note
-All of my work is made only for educational purposes.
+<i>All of my work is made only for educational purposes.</i>
