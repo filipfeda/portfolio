@@ -1,6 +1,6 @@
  ## Examples of my work
 
-## Testing [empik.com](https://www.empik.com/) webshop:
+## Testing [empik.com](https://www.empik.com/) webshop
 * Test cases created in <b>Testrail</b> to test sections of search engine, login and registration, slider and banners behaviours. 
 * [Click to view PDF file](https://drive.google.com/file/d/1sSbkpY4X0c7RT9hODUJMdGV82naRid3M/view?usp=sharing)
 
