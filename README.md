@@ -1,9 +1,5 @@
  ## Examples of my work
 
-## Testing [empik.com](https://www.empik.com/) webshop
-* Test cases created in <b>Testrail</b> to test sections of search engine, login and registration, slider and banners behaviours. 
-* [Click to view PDF file](https://drive.google.com/file/d/1sSbkpY4X0c7RT9hODUJMdGV82naRid3M/view?usp=sharing)
-
 ## Testing [kanban board](https://kanbanboard.pl/)
 * Test cases created in <b>Testlink</b> to test main modules of app as columns, and tasks.
 * [Click to view PDF file](https://drive.google.com/file/d/1R0FPOSKHhJYZA61XaTTxQx_gvYctdcpA/view?usp=sharing)
@@ -11,6 +7,10 @@
 ## Testing [training webshop](https://skleptest.pl/)
 * Bug reports created in <b>Mantis</b> that was found during exploratory tests.
 * [Click to view PDF file](https://drive.google.com/file/d/1IIR4TTZP-YMacSnZrjY2zgbjXSiXuCKr/view?usp=sharing)
+
+## Testing [empik.com](https://www.empik.com/) webshop
+* Test cases created in <b>Testrail</b> to test sections of search engine, login and registration, slider and banners behaviours. 
+* [Click to view PDF file](https://drive.google.com/file/d/1sSbkpY4X0c7RT9hODUJMdGV82naRid3M/view?usp=sharing)
 
 ## Mindmap
 * Branch coverage of decisions using Lucidcharts.
